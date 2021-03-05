@@ -1,3 +1,5 @@
+package Baekjoon.brute_force.b2798;
+
 import java.util.Scanner;
 
 public class Main{
