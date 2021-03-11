@@ -26,7 +26,7 @@ public class Main {
             return;
         }
 
-        //
+
         for (int i = 0; i < N; i++) {
             arr[d] = i;
 
@@ -38,6 +38,7 @@ public class Main {
 
     public static boolean possible(int c) {
 
+        //c는 퀸 개수
         for (int i = 0; i < c; i++) {
             if (arr[i] == arr[c]) {
                 return false;
@@ -46,8 +47,8 @@ public class Main {
                 return false;
             }
         }
-            return true;
-        }
+        return true;
     }
+}
 
 
