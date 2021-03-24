@@ -1,4 +1,4 @@
-package Baekjoon.Programmers.level1.두개뽑아서더하기;
+package Programmers.level1.두개뽑아서더하기;
 
 import java.util.ArrayList;
 import java.util.Arrays;
