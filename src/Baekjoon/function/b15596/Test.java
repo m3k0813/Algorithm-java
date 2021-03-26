@@ -1,3 +1,5 @@
+package Baekjoon.function.b15596;
+
 public class Test {
     long sum(int[] a) {
         long ans = 0;
